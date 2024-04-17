@@ -28,3 +28,9 @@ This game was created following a tutorial from [freecodecamp.org](https://www.f
 
 ![Preview](preview.png)
 
+## Changelog
+
+- Added dynamic monster attack value based on level.
+- Implemented a chance for the monster to dodge the player's attack.
+- Added a chance for the player's weapon to break during combat.
+- Introduced a hidden easter egg game.
