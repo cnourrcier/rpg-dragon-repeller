@@ -16,7 +16,7 @@ Dragon Repeller is a text-based RPG game built with HTML, CSS, and JavaScript. I
 
 ## Credits
 
-This game was created following a tutorial from [freecodecamp.org](https://www.freecodecamp.org/). You can find the tutorial [here](#). Huge thanks to the team at freecodecamp for providing such valuable resources.
+This game was created following a tutorial from [freecodecamp.org](https://www.freecodecamp.org/). You can find the tutorial [here](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/). Huge thanks to the team at freecodecamp for providing such valuable resources.
 
 ## Files
 
