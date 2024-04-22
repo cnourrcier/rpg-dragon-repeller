@@ -34,3 +34,11 @@ This game was created following a tutorial from [freecodecamp.org](https://www.f
 - Implemented a chance for the monster to dodge the player's attack.
 - Added a chance for the player's weapon to break during combat.
 - Introduced a hidden easter egg game.
+
+## License
+
+This project is licensed under the BSD-3 License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to customize and enhance according to your preferences and needs! 
